@@ -168,6 +168,3 @@ ln -s /usr/local/rar/unrar /usr/local/bin/unrar
 
 云平台：
 获取方式与Ubuntu一致 获取CPU信息 cat /proc/cpuinfo 获取内存信息 free -h 获取硬盘数量以及容量信息df -h 
-
-remote_checkinfo
-asciinema
